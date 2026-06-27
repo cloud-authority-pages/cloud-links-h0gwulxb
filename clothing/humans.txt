@@ -1,0 +1,9 @@
+/* TEAM */
+Company: The Branded Wardrobe
+Website: https://thebrandedwardrobe.co.za/
+Location: Vereeniging
+
+//* SITE */
+Published: 2026-06-27
+Language: English
+Doctype: HTML5
